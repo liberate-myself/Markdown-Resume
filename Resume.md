@@ -43,12 +43,12 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- 熟练使用C/C++ 开发语言，熟练使用STL，了解Python等编程语言
-- 熟悉Linux下多线程多进程，线程池开发，熟练使用select，epoll的IO多路复用系统调用
+- 熟练使用C/C++ 开发语言，熟练使用STL，能自行编写函数模板和类模板，了解Python等编程语言，了解RALL技术
+- 熟悉Linux下多线程多进程，线程池开发，了解进程间和线程间的通信，熟练使用select，epoll的IO多路复用系统调用，了解C/S架构
 - 熟悉计算机网络，掌握TCP/IP协议，掌握Socket网络编程，熟悉Reactor框架，了解一些基本的网络防火墙知识
 - 熟悉常用算法（LRU，常见排序算法，常见查找算法等），和数据结构（数组，链表，栈，队列，二叉树，B/B+树，哈希表，红黑树）
 - 熟悉面向对象思想和一些设计模式（pimpl设计模式，singleton单例模式，抽象工厂，观察者模式等）
 - 熟悉Redis、MySQL数据库的基本原理和基本使用，熟悉MySQL语言
-- ★★☆ Spring
+- 了解Log4CPP, tinyxml2，CppJieba，Hiredis，json，workflow，wfrest等第三方库
 - ★☆☆ RabbitMQ、ZooKeeper
 - ★★☆ JavaScript
