@@ -12,8 +12,8 @@
          </span>
          ·
          <span>
-             <img src="assets/wx-photo.svg" width="18px">
-             
+             <img src="assets/wx-photo.png" width="18px">
+             wxid_56r2ucbwnzgs22
          </span>
          ·
      </div>
