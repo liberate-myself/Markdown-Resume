@@ -3,23 +3,19 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             18671491568
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             1372835737@qq.com
          </span>
          ·
          <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <img src="assets/wx-photo.svg" width="18px">
+             
          </span>
          ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span>
      </div>
  </center>
 
